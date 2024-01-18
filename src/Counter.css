@@ -1,0 +1,12 @@
+.Counter {
+    border: solid 1px black;
+    max-width: 150px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: rgb(166, 166, 164);
+}
+
+button {
+    margin: 5px;
+}
